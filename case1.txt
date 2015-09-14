@@ -1,0 +1,20 @@
+Jake Hauck
+jhauck2
+IE 300
+Case Study 1
+
+
+The number of observations is: 382
+
+The target flight time of this route is: 203.88475520000003 minutes
+
+The typical time of this route is: 222.34548818429323 minutes
+
+The time added for AA is: -62.432026645831684 minutes
+The time added for F9 is: -51.18419786171259 minutes
+The time added for NK is: -74.22048818429323 minutes
+The time added for UA is: -58.71728305608809 minutes
+The time added for US is: -59.423919556842264 minutes
+
+The airline with the lowest time added is: NK
+
